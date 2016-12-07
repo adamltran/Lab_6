@@ -264,7 +264,7 @@ public class PokerTableController implements Initializable {
 	}
 
 	public void Handle_GameState(GamePlay HubPokerGame) {
-		// TODO: Deal the cards to the client(s)
+		// Deals the cards to the client(s)
 
 		GamePlay.StateOfGamePlay(HubPokerGame);
 
